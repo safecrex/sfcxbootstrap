@@ -1,1 +1,2 @@
-# sfcxbootstrap
+# sfcx bootstrap
+  bootstrap.dat
